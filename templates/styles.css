@@ -1,0 +1,27 @@
+
+  .bg {
+      background-image: url("static/cc.jpg");
+      min-height: 100%;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+      background-size: cover;
+      padding: 50px 50px 50px 50px;
+  }
+  .newrecord {
+      max-width: 512px;
+      margin: 0px auto 28px auto;
+      padding: 50px 50px 50px 50px;
+      width: 314px;
+      box-shadow: 0px 4px 24px rgb(0 0 0 / 10%);
+      border-radius: 2px;
+      text-align: left;
+      background-color: aliceblue;
+
+    }
+
+    fieldset{
+      margin-bottom: 50px;
+	  padding: 50px;
+	  background-color: azure;
+    }
